@@ -1,0 +1,33 @@
+Effective Date: 27/06/2024
+
+This Privacy Policy explains how dark's music botcollects, uses, and protects your information when you use the Bot.
+
+1.Information We Collect
+User Data: We may collect your Discord user ID, username, and any messages or commands you send to the Bot.
+Usage Data: We may collect information on how you interact with the Bot, such as commands used and features accessed.
+
+2.How We Use Your Information
+To operate and maintain the Bot.
+To improve the Bot's functionality and user experience.
+To respond to user inquiries and provide support.
+
+3.Data Protection
+We take reasonable measures to protect your data from unauthorized access or disclosure.
+Your data is stored securely and is only accessible by authorized personnel.
+
+4.Sharing Your Information
+We do not share your data with third parties except as required by law or to protect our rights.
+
+5.Data Retention
+We retain your data only as long as necessary to fulfill the purposes outlined in this Privacy Policy.
+You can request the deletion of your data by contacting us at [your contact information].
+
+6.Your Rights
+You have the right to access, correct, or delete your personal data.
+You can exercise these rights by contacting us at [your contact information].
+
+7.Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by updating the "Effective Date" at the top of this policy.
+Your continued use of the Bot after any changes indicates your acceptance of the new Privacy Policy.
+
+If you have any questions about this Privacy Policy, please contact me in discord dark0033

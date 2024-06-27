@@ -1,0 +1,24 @@
+By using dark's music bot, you agree to the following terms and conditions. If you do not agree with any of these terms, you are prohibited from using the Bot.
+
+1.Usage
+
+The Bot is provided as-is, without warranties of any kind.
+You must not use the Bot for any illegal or unauthorized purpose.
+
+2.Content
+You are responsible for any content you create or share using the Bot.
+The Bot's developers are not responsible for any content shared by users.
+
+3.Data Collection
+The Bot may collect and store data necessary for its operation, such as user IDs and message content.
+This data will not be shared with third parties except as required by law.
+
+4.Disclaimer
+The Bot's developers are not liable for any damages or losses resulting from the use of the Bot.
+The Bot is provided without any guarantees of uptime or performance.
+
+5.Termination
+The developers reserve the right to terminate or restrict access to the Bot at any time, for any reason, without notice.
+
+6.Changes to Terms
+These terms may be updated from time to time. Continued use of the Bot after any changes indicates your acceptance of the new terms.
